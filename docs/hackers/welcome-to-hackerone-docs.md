@@ -1,4 +1,4 @@
----
+---QUGL-98-06-15/docs.hackerone.com---
 title: "Welcome to HackerOne Docs"
 path: "/hackers.html"
 id: "hackers/welcome-to-hackerone-docs"
